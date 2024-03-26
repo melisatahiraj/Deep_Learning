@@ -30,7 +30,7 @@
 * Save and export your results to an HDF5 file named *AlphabetSoupCharity_Optimization.h5*
 
 ### Write a Report on the Neural Network Model
-* Write an analysis that includes a title and multiple sections, labeled with headers and subheaders
+* Write an analysis that includes a title and multiple sections, labeled with headers and subheaders saved in *Report on the Neural Network Model*
 * Format images in the report so that they display correction
 * Explain the purpose of the analysis
 * Answer all 6 questions in the results section
