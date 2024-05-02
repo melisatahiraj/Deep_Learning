@@ -1,4 +1,4 @@
-# Deep Learning Challenge
+# Deep Learning
 
 ### Preprocess the Data
 * Create a dataframe containing the *charity_data.csv* data , and identify the target and feature variables in the dataset
